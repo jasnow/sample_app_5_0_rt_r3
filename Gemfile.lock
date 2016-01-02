@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/turbolinks.git
-  revision: 37e097d24763106a7a3f06c5ec0b6242cff18ea2
+  revision: dd31f4b2996f2300631f89339ada82c65b95f4c2
   specs:
     turbolinks (3.0.0)
       coffee-rails
@@ -128,7 +128,7 @@ GEM
       rb-inotify (>= 0.9)
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
-    lumberjack (1.0.9)
+    lumberjack (1.0.10)
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
     method_source (0.8.2)
@@ -194,7 +194,7 @@ GEM
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
     rake (10.4.2)
-    rb-fsevent (0.9.6)
+    rb-fsevent (0.9.7)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
     rdoc (4.2.1)
