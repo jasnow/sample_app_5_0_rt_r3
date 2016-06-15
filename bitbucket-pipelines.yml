@@ -9,3 +9,4 @@ pipelines:
           - ruby --version
           - bundler --version
           - bundle install
+          - bundle exec rake db:migrate
