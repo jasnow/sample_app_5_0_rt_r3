@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '6.0.0.beta3'
+gem 'rails', '5.2.2.1'  # Rails 5x
 
 ruby '2.6.2'
 
