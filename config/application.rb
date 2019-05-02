@@ -30,5 +30,7 @@ module SampleApp50Rt
     # config.active_record.raise_in_transactional_callbacks = true
 
     config.active_record.sqlite3.represent_boolean_as_integer = true
+
+    config.generators.javascript_engine = :js
   end
 end
