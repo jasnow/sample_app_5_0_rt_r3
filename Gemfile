@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '5.2.4.2'
 
-ruby '2.7.0'
+ruby '2.7.1'
 
 gem 'turbolinks'
 gem 'uglifier'
